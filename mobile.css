@@ -1,0 +1,29 @@
+@media (max-width: 991.98px) {
+    body {
+        text-align: center;
+    }
+
+    #contact {
+        margin-top: 30%;
+        background-color: #fff;
+        padding-top: 15px;
+        border: cover;
+    }
+    
+    #contact h2 {
+        font-size: 18px;
+        font-family: viga;
+    }
+    
+    #contact h6 {
+        font-size: 16px;
+        font-family: poppins;
+        font-weight: 600;
+    }
+    
+    #contact p {
+        font-size: 10px;
+        font-family: raleway;
+        text-align: left;
+    }
+}
